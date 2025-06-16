@@ -28,8 +28,8 @@ This is a full-stack AI-powered weather application built for the PM Accelerator
 - Pandas  
 - Joblib
 ```bash
-## File Structure
-```bash
+File Structure
+
 
 weather_ai_app/
 ├── backend_deploy/
@@ -43,10 +43,10 @@ weather_ai_app/
 ├── README.md
 └── …
 
-## How to Run Locally
+How to Run Locally
 
-### 1. Clone the repository
-```bash
+1. Clone the repository
+
 git clone git@github.com:siddsharma18/PMaccelerator.git
 cd PMaccelerator
 
