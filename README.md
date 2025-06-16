@@ -27,7 +27,7 @@ This is a full-stack AI-powered weather application built for the PM Accelerator
 - Scikit-learn  
 - Pandas  
 - Joblib
-
+```bash
 ## File Structure
 ```bash
 
