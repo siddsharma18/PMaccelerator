@@ -1,30 +1,35 @@
-Weather AI App
+Here’s the properly formatted README.md markdown so it renders exactly as intended in GitHub’s Preview tab:
+
+# Weather AI App
 
 This is a full-stack AI-powered weather application built for the PM Accelerator internship technical assessment. It consists of a FastAPI backend and a responsive frontend to search, display, and understand weather data.
 
-Features
-	•	Search current weather by city name
-	•	FastAPI backend with ML model integration
-	•	Displays humidity, temperature, wind speed, and forecast
-	•	Info button explaining the PM Accelerator program
-	•	Shows developer’s name clearly
+## Features
 
-Tech Stack
+- Search current weather by city name  
+- FastAPI backend with ML model integration  
+- Displays humidity, temperature, wind speed, and forecast  
+- Info button explaining the PM Accelerator program  
+- Shows developer’s name clearly
 
-Frontend
-	•	React
-	•	TailwindCSS
-	•	Axios
+## Tech Stack
 
-Backend
-	•	FastAPI
-	•	Python
-	•	Scikit-learn
-	•	Pandas
-	•	Joblib
+### Frontend
 
+- React  
+- TailwindCSS  
+- Axios  
 
-File Structure
+### Backend
+
+- FastAPI  
+- Python  
+- Scikit-learn  
+- Pandas  
+- Joblib
+
+## File Structure
+```bash
 
 weather_ai_app/
 ├── backend_deploy/
@@ -36,12 +41,12 @@ weather_ai_app/
 │   └── (React frontend source code)
 ├── Dockerfile
 ├── README.md
-└── ...
+└── …
 
-How to Run Locally
+## How to Run Locally
 
-1. Clone the repository
-
+### 1. Clone the repository
+```bash
 git clone git@github.com:siddsharma18/PMaccelerator.git
 cd PMaccelerator
 
@@ -65,7 +70,8 @@ npm run dev
 
 PM Accelerator
 
-The PM Accelerator is a hands-on learning platform helping students and early professionals gain real-world product management experience. Learn more on their LinkedIn page.
+The PM Accelerator is a hands-on learning platform helping students and early professionals gain real-world product management experience.
+Learn more on their LinkedIn page.
 
 Author
 
